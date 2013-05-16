@@ -1,0 +1,118 @@
+body {
+background: #000000
+url(images/background2.bmp);
+url(/images/background2.bmp);
+margin: 0;
+padding: 0;
+font-family: Georgia;
+}
+
+#page_container {
+width: 900px;
+margin: auto;
+border-left: 1px solid #222222;
+border-right: 1px solid #222222;
+border-bottom: 1px solid #222222;
+}
+
+#header {
+height: 125px;
+background: #000000
+url(images/titlebanner69.bmp);
+border-bottom: 1px solid #222222;
+}
+
+#nav {
+height: 25px;
+background: #ffffff
+url(images/grad_vertical.jpg);
+border-bottom: 1px solid #222222;
+}
+
+#nav ul {
+margin: 0;
+padding: 0;
+}
+
+#nav li {
+display: inline;
+margin: 0px 20px 0px 0px;
+}
+
+#nav a {
+color: #000077;
+text-decoration: none;
+}
+
+#nav a:hover {
+color: #ffffff;
+text-decoration: none;
+}
+
+#nav a:visited {
+color: #000077;
+text-decoration: none;
+}
+
+#nav a:active {
+color: #ffffff;
+text-decoration: none;
+}
+
+#nav a:link {
+color: #000077;
+text-decoration: none;
+}
+
+#content{
+background: #ffffff
+url(images/background3.bmp );
+background-repeat:no-repeat;
+font-family: Georgia;
+color: #000000;
+font-size: 14px;
+}
+
+#content td {
+font-family: Georgia;
+color: #000000;
+font-size: 14px;
+}
+
+
+#content_padding {
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#navpadding {
+padding-left: 10px;
+padding-top: 3px;
+}
+
+#footer {
+border-top: 1px solid #000000;
+background: #ffffff;
+border-top: 1px solid #cccccc;
+height: 65px;
+padding-left: 10px;
+}
+
+.footer_text {
+font-family: Georgia;
+font-size: 12px;
+color: #000000;
+}
+
+.latnews {
+margin: 0;
+padding: 0;
+text-indent: 0px;
+}
+
+#history_info p:first-letter { 
+font-size: xx-large;
+background-color: lime; 
+}
