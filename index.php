@@ -56,13 +56,6 @@
   <hr style="width: 100%; height: 2px;" />
 <br /> <span style="font-weight: bold;"></span></div>
 
-<div style="text-align:right">
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%23enkkpsi" data-widget-id="304252934651248641">Tweets about "#enkkpsi"</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-</div>
-
-
 <h3 style="margin: 0pt; padding: 0pt;">Kappa Kappa Psi
 Creed</h3>
 <br /> We, the Brothers of Kappa Kappa Psi, believe that service to the
@@ -76,11 +69,8 @@ that through<br /> fraternal participation, each member will strive for the high
 founded in 1919. See the <a href="history.html">History</a> page for more information. <br /></div>
 <br /></div>
 </div>
-<div id="footer">
-<p class="footer_text">Copyright &copy; 2012 |
-Epsilon Nu - Kappa Kappa Psi<br /> 
-110 Grinnel Road, George N. Parks Minuteman Marching Band Building, University of Massachusetts, Amherst, MA 01003<br /> This page has been tested on <a href="http://www.mozilla.com">Firefox</a> and <a href="http://www.apple.com">Safari</a>.</p>
-</div>
-</div>
+<?php
+    include 'pages/footer.php';
+?>
 </body>
 </html>
