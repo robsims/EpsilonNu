@@ -44,7 +44,7 @@
     Vishu Nair - Alumni Relations Officer<br />
     Ryan Barry - Corresponding Secretary<br />
     Ethan Miller - Historian<br />
-    Parliamentarian - Andrew Lyczmanenko</p>
+    Andrew Lyczmanenko - Parliamentarian</p>
 
 <p><strong>April 11, 2013:</strong></p>
 <p>Epsilon Nu would like to congratulate the newly initiated Sisters of Delta Delta - Tau Beta Sigma</p>

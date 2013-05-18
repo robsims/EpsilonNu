@@ -1,10 +1,13 @@
+html,
 body {
 background: #000000
 url(images/background2.bmp);
 url(/images/background2.bmp);
 margin: 0;
 padding: 0;
+padding-bottom:65px;
 font-family: Georgia;
+height:100%;
 }
 
 #page_container {
@@ -13,6 +16,8 @@ margin: auto;
 border-left: 1px solid #222222;
 border-right: 1px solid #222222;
 border-bottom: 1px solid #222222;
+min-height:100%;
+position:relative;
 }
 
 #header {
@@ -93,6 +98,9 @@ padding-top: 3px;
 }
 
 #footer {
+position:absolute;
+bottom:0;
+width:100%;
 border-top: 1px solid #000000;
 background: #ffffff;
 border-top: 1px solid #cccccc;
