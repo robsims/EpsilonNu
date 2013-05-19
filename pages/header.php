@@ -4,7 +4,7 @@
 <div id="nav">
     <div id="navpadding">
         <ul>
-            <li><b>Home</b></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="brothers.php">Brothers</a></li>
             <li><a href="history.html">History</a></li>
             <li><a href="gallery.html">Gallery</a></li>
