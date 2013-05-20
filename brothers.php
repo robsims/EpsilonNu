@@ -16,7 +16,7 @@ Massachusetts</title>
             include 'pages/header.php';
         ?>
         
-        <div id="content">
+        <div id="content" style="padding-bottom:50px"> <!--padding-bottom included so Brothers at bottom of table don't get cut off.-->
             <div id="content_padding">
                 <h2 style="margin: 0pt; padding: 0pt;"><br /></h2>
                 <h2 style="margin: 0pt; padding: 0pt;">Brothers</h2>
