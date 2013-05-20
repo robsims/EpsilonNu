@@ -6,7 +6,7 @@
     include 'pages/navbar.php';
 ?>
 
-        <div id="content">
+        <div id="content" style="padding-bottom:500px">
             <div id="content_padding">
                 <h2>Epsilon Nu Alumni Association</h2>
 
