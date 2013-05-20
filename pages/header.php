@@ -1,17 +1,21 @@
-<div id="header">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Epsilon Nu - Kappa Kappa Psi | University of
+    Massachusetts</title>
+
+  <link href="styles.css" type="text/css" rel="stylesheet">
+
+</head>
+
+
+<body>
+
+    <div id="page_container">
+
+        <div id="header">
     
-</div>
-<div id="nav">
-    <div id="navpadding">
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="brothers.php">Brothers</a></li>
-            <li><a href="history.html">History</a></li>
-            <li><a href="gallery.php">Gallery</a></li>
-            <li><a href="links.php">Links</a></li>
-            <li><a href="alumni.php">Alumni</a></li>
-            <li><a href="nus.php">Newsletter</a></li>
-            <li><a href="gnp.html">GNP</a></li>
-        </ul>
-    </div>
-</div>
+        </div>
+
+
+

@@ -1,20 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-    <title>Epsilon Nu - Kappa Kappa Psi | University of Massachusetts</title>
-
-    <link href="styles.css" type="text/css" rel="stylesheet">
-
-</head>
-
-
-<body>
-
-    <div id="page_container">
-
-        <?php
-            include 'pages/header.php';
-        ?>
+<?php
+    include 'pages/header.php';
+?>
+    
+<?php
+    include 'pages/navbar.php';
+?>
 
         <div id="content" style="padding-bottom:500px"> <!--padding-bottom included to fix weird looking page.-->
            <div id="content_padding">
@@ -36,12 +26,6 @@
 
         </div>
 
-        <?php
-            include 'pages/footer.php';
-        ?>
-
-    </div>
-
-</body>
-
-</html>
+<?php
+    include 'pages/footer.php';
+?>

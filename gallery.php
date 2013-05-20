@@ -1,36 +1,19 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-  <title>Epsilon Nu - Kappa Kappa Psi | University of
-    Massachusetts</title>
+<?php
+    include 'pages/header.php';
+?>
 
-  <link href="styles.css" type="text/css" rel="stylesheet">
-
-</head>
-
-
-<body>
-
-    <div id="page_container">
-
-        <?php
-            include 'pages/header.php';
-        ?>
+<?php
+    include 'pages/navbar.php';
+?>
 
             <div id="content">
-                <div id="content_padding">
+                <div id="content_padding" style="padding-bottom:500px"> <!-- padding-bottom included to stop page from looking weird -->
                     <h2>Coming soon!!</h2>
 
                 </div>
 
             </div>
 
-        <?php
-            include 'pages/footer.php';
-        ?>
-
-    </div>
-
-</body>
-
-</html>
+<?php
+    include 'pages/footer.php';
+?>
