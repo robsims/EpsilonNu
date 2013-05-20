@@ -124,3 +124,27 @@ text-indent: 0px;
 font-size: xx-large;
 background-color: lime; 
 }
+
+.gnpcolumn{
+width:400px;
+float:left;
+margin-right:0px;
+}
+
+.gnpcolumn div{
+width:175px;
+height:400px;
+}
+
+#gnpcol-1 div{
+float:right;
+}
+
+#gnpcol-2 div{
+float:left;
+}
+
+img#gnp-image{
+position:absolute;
+left:250px;
+}
