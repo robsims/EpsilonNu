@@ -4,6 +4,9 @@
  Use multiple paragraphs for info as necessary.
 -->
 
+<p><strong>June 1, 2013</strong></p>
+<p>Epsilon Nu wants to remind everybody that the deadline to register for National Convention 2013 is approaching fast!  Be sure to register yourself or your group by June 7th.  We hope to see all our old and new friends in Springfield this summer!</p>
+
 <p><strong>May 17, 2013</strong></p>
 <p>Congratulations to Epsilon Nu Brother Joseph Goguen on your acceptance to the National Intercollegiate Band!  We're excited to see you at National Convention 2013!</p>
  
@@ -45,12 +48,6 @@
     Ryan Barry - Corresponding Secretary<br />
     Ethan Miller - Historian<br />
     Andrew Lyczmanenko - Parliamentarian</p>
-
-<p><strong>April 11, 2013:</strong></p>
-<p>Epsilon Nu would like to congratulate the newly initiated Sisters of Delta Delta - Tau Beta Sigma</p>
-<p>Elizabeth Streitfeld<br />
-   Erica Davignon<br />
-   Hillary Bylicki</p>
 
 
     
